@@ -12,3 +12,5 @@
 ![V](https://img.shields.io/badge/V-4d87bf?style=for-the-badge&logo=v&logoColor=white)
 ![Carbon](https://img.shields.io/badge/Carbon-313131?style=for-the-badge&logo=carbon&logoColor=white)
 ![MoonBit](https://img.shields.io/badge/MoonBit-6f4bda?style=for-the-badge)
+
+Мой любимый язык программирования — $\color{gold}{\mathcal{Ada}}$!
