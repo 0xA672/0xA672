@@ -14,4 +14,5 @@
 ![MoonBit](https://img.shields.io/badge/MoonBit-6f4bda?style=for-the-badge)
 
 Мой любимый язык программирования — $\color{gold}{\mathcal{Ada}}$!
+<br>
 代码是定理的证明。
