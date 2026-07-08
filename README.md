@@ -15,6 +15,6 @@
 
 Мой любимый язык программирования — $\color{gold}{\mathcal{Ada}}$!
 <br>
-等价即是相等。
+Isomorphic types are equal.
 <br>
 代码是定理的证明。
