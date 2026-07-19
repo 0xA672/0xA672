@@ -15,6 +15,6 @@
 
 Мой любимый язык программирования — $\color{gold}{\mathcal{Ada}}$!
 <br>
-Isomorphic types are equal.
+Isomorphic types are equal!
 <br>
-代码是定理的证明。
+代码是定理的证明！
