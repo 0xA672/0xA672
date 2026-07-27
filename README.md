@@ -15,9 +15,4 @@
 
 Мой любимый язык программирования — $\color{gold}{\mathcal{Ada}}$!
 <br>
-Isomorphic types are equal!
-<br>
-代码是定理的证明！
-<br>
-<img width="1030" height="295" alt="image" src="https://github.com/user-attachments/assets/4388cea3-009f-450b-92ce-5901c5e29243" />
-
+Hello, for some reasons, my ability to express myself is quite poor. What I say tends to come across as rather strange, and even normally I have a hard time understanding exactly what you mean. Please don't come to hang out with me.
