@@ -16,3 +16,5 @@
 Мой любимый язык программирования — $\color{gold}{\mathcal{Ada}}$!
 <br>
 Hello, for some reasons, my ability to express myself is quite poor. What I say tends to come across as rather strange, and even normally I have a hard time understanding exactly what you mean. Please don't come to hang out with me.
+<br>
+![A 88 by 31 pixel button of the progress pride flag.](https://gavinmorrow.com/buttons/pride-button.png)
